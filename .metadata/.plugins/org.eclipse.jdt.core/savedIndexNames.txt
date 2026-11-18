@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+E:\coding\java\Socket Programming\.metadata\.plugins\org.eclipse.jdt.core
+384589830.index
+1315792372.index
+3467932615.index
+996107611.index
+649510198.index
+849217133.index
+858392702.index
+3413270776.index
